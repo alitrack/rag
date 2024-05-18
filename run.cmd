@@ -1,0 +1,1 @@
+python -m streamlit.web.cli run main.py
